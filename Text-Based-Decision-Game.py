@@ -215,3 +215,5 @@ elif char_found == "talk to the dragon":
 
 elif char_found == "rescue alfred and runaway":
     dialogue(f"To be continued")
+
+dialogue(f"The rest of the story is still in development. Stay tuned!")
