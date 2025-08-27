@@ -10,3 +10,7 @@ A Python text-based game that allows users to make decisions that ultimately imp
 ## Technologies Used
 - Python 3
 - Standard libraries included with Python
+
+#How to Run
+- Clone the repo
+- Run "Text-Based-Decision-Game.py"
